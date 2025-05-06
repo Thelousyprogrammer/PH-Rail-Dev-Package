@@ -1,0 +1,284 @@
+{
+  "LRT1": [
+    {
+      "name": "Baclaran Station",
+      "latitude": 14.529722,
+      "longitude": 120.997778,
+      "line": "LRT1"
+    },
+    {
+      "name": "EDSA Station",
+      "latitude": 14.536111,
+      "longitude": 121.000833,
+      "line": "LRT1"
+    },
+    {
+      "name": "Libertad Station",
+      "latitude": 14.544444,
+      "longitude": 121.001111,
+      "line": "LRT1"
+    },
+    {
+      "name": "Gil Puyat Station",
+      "latitude": 14.551389,
+      "longitude": 121.003889,
+      "line": "LRT1"
+    },
+    {
+      "name": "Vito Cruz Station",
+      "latitude": 14.558611,
+      "longitude": 121.004167,
+      "line": "LRT1"
+    },
+    {
+      "name": "Quirino Avenue Station",
+      "latitude": 14.565833,
+      "longitude": 121.0025,
+      "line": "LRT1"
+    },
+    {
+      "name": "Pedro Gil Station",
+      "latitude": 14.571944,
+      "longitude": 121.001111,
+      "line": "LRT1"
+    },
+    {
+      "name": "United Nations Station",
+      "latitude": 14.582222,
+      "longitude": 120.998611,
+      "line": "LRT1"
+    },
+    {
+      "name": "Central Terminal Station",
+      "latitude": 14.591111,
+      "longitude": 120.983889,
+      "line": "LRT1"
+    },
+    {
+      "name": "Carriedo Station",
+      "latitude": 14.599722,
+      "longitude": 120.982778,
+      "line": "LRT1"
+    },
+    {
+      "name": "Doroteo Jose Station",
+      "latitude": 14.605833,
+      "longitude": 120.981111,
+      "line": "LRT1"
+    },
+    {
+      "name": "Bambang Station",
+      "latitude": 14.610278,
+      "longitude": 120.980278,
+      "line": "LRT1"
+    },
+    {
+      "name": "Tayuman Station",
+      "latitude": 14.615833,
+      "longitude": 120.979167,
+      "line": "LRT1"
+    },
+    {
+      "name": "Blumentritt Station",
+      "latitude": 14.620556,
+      "longitude": 120.978056,
+      "line": "LRT1"
+    },
+    {
+      "name": "Abad Santos Station",
+      "latitude": 14.625556,
+      "longitude": 120.976944,
+      "line": "LRT1"
+    },
+    {
+      "name": "R. Papa Station",
+      "latitude": 14.631111,
+      "longitude": 120.975833,
+      "line": "LRT1"
+    },
+    {
+      "name": "5th Avenue Station",
+      "latitude": 14.636111,
+      "longitude": 120.975,
+      "line": "LRT1"
+    },
+    {
+      "name": "Monumento Station",
+      "latitude": 14.653056,
+      "longitude": 120.981667,
+      "line": "LRT1"
+    },
+    {
+      "name": "Balintawak Station",
+      "latitude": 14.656667,
+      "longitude": 121.000556,
+      "line": "LRT1"
+    },
+    {
+      "name": "Roosevelt Station",
+      "latitude": 14.659722,
+      "longitude": 121.016111,
+      "line": "LRT1"
+    }
+  ],
+  "LRT2": [
+    {
+      "name": "Antipolo Station",
+      "latitude": 14.584167,
+      "longitude": 121.175278,
+      "line": "LRT2"
+    },
+    {
+      "name": "Marikina Station",
+      "latitude": 14.609722,
+      "longitude": 121.102778,
+      "line": "LRT2"
+    },
+    {
+      "name": "Santolan Station",
+      "latitude": 14.615833,
+      "longitude": 121.087778,
+      "line": "LRT2"
+    },
+    {
+      "name": "Katipunan Station",
+      "latitude": 14.631389,
+      "longitude": 121.073611,
+      "line": "LRT2"
+    },
+    {
+      "name": "Anonas Station",
+      "latitude": 14.632222,
+      "longitude": 121.063611,
+      "line": "LRT2"
+    },
+    {
+      "name": "Araneta Center–Cubao Station",
+      "latitude": 14.622222,
+      "longitude": 121.053611,
+      "line": "LRT2"
+    },
+    {
+      "name": "Betty Go-Belmonte Station",
+      "latitude": 14.617778,
+      "longitude": 121.043333,
+      "line": "LRT2"
+    },
+    {
+      "name": "Gilmore Station",
+      "latitude": 14.613611,
+      "longitude": 121.033611,
+      "line": "LRT2"
+    },
+    {
+      "name": "J. Ruiz Station",
+      "latitude": 14.610556,
+      "longitude": 121.026111,
+      "line": "LRT2"
+    },
+    {
+      "name": "V. Mapa Station",
+      "latitude": 14.607778,
+      "longitude": 121.021389,
+      "line": "LRT2"
+    },
+    {
+      "name": "Pureza Station",
+      "latitude": 14.604167,
+      "longitude": 121.008056,
+      "line": "LRT2"
+    },
+    {
+      "name": "Legarda Station",
+      "latitude": 14.604444,
+      "longitude": 120.997222,
+      "line": "LRT2"
+    },
+    {
+      "name": "Recto Station",
+      "latitude": 14.603333,
+      "longitude": 120.983889,
+      "line": "LRT2"
+    }
+  ],
+  "MRT3": [
+    {
+      "name": "North Avenue Station",
+      "latitude": 14.655833,
+      "longitude": 121.036389,
+      "line": "MRT3"
+    },
+    {
+      "name": "Quezon Avenue Station",
+      "latitude": 14.646944,
+      "longitude": 121.037222,
+      "line": "MRT3"
+    },
+    {
+      "name": "Kamuning Station",
+      "latitude": 14.638889,
+      "longitude": 121.036111,
+      "line": "MRT3"
+    },
+    {
+      "name": "Cubao Station",
+      "latitude": 14.619722,
+      "longitude": 121.051389,
+      "line": "MRT3"
+    },
+    {
+      "name": "Santolan-Annapolis Station",
+      "latitude": 14.607778,
+      "longitude": 121.056389,
+      "line": "MRT3"
+    },
+    {
+      "name": "Ortigas Station",
+      "latitude": 14.586389,
+      "longitude": 121.056111,
+      "line": "MRT3"
+    },
+    {
+      "name": "Shaw Boulevard Station",
+      "latitude": 14.5825,
+      "longitude": 121.053333,
+      "line": "MRT3"
+    },
+    {
+      "name": "Boni Station",
+      "latitude": 14.576111,
+      "longitude": 121.046667,
+      "line": "MRT3"
+    },
+    {
+      "name": "Guadalupe Station",
+      "latitude": 14.567778,
+      "longitude": 121.043056,
+      "line": "MRT3"
+    },
+    {
+      "name": "Buendia Station",
+      "latitude": 14.554444,
+      "longitude": 121.034444,
+      "line": "MRT3"
+    },
+    {
+      "name": "Ayala Station",
+      "latitude": 14.551111,
+      "longitude": 121.0275,
+      "line": "MRT3"
+    },
+    {
+      "name": "Magallanes Station",
+      "latitude": 14.541389,
+      "longitude": 121.017222,
+      "line": "MRT3"
+    },
+    {
+      "name": "Taft Avenue Station",
+      "latitude": 14.536111,
+      "longitude": 121.001944,
+      "line": "MRT3"
+    }
+  ]
+}
